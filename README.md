@@ -43,7 +43,7 @@
 </p><br/>
  -->
 <details>
-  <summary>Quelques statistiques ...</summary><br/>
+  <summary>Yet to update ...</summary><br/>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
