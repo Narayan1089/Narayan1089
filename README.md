@@ -29,7 +29,7 @@
   <a href="https://github.com/MrStanDu33/spotify-informer"><img src="https://img.shields.io/badge/built%20with%20MrStanDu33%2Fspotify‑informer-1ED760.svg?style=flat-square&logo=spotify&logoColor=white"/></a><br/>
 </p> -->
 
-<img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
+<img src="http://views.whatilearened.today/views/github/Narayan1089/views.svg"/>
 <h3>⚡️ Projects ⚡️</h3><br/>
 <!-- <p>
   🧔 Moi c'est <bold>Stan</bold>. 23 ans, barbu et un amateur de code et de 🍺.<br/>
